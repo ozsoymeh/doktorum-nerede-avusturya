@@ -1,7 +1,7 @@
 [
   {
-    "email": "admin@doktorum-nerede.at",
-    "password": "$2b$10$Okp3a6dLND4JbY.ugP3CLOjIZcZyUDv9Ylrzc5qNeL1TZolSPvGDm",
+    "email": "admin@doktorumnerede.at",
+    "password": "$2b$10$3IW1OZ699ehQPi3hM4f8buroOweO1FuqjeBP9OoNPdKOw0sXRKm4m",
     "title": "Herr",
     "firstName": "Admin",
     "lastName": "User",
@@ -11,38 +11,5 @@
     "isAdmin": true,
     "isApproved": true,
     "registrationDate": "2024-03-20T00:00:00.000Z"
-  },
-  {
-    "email": "ordination@uromed.at",
-    "password": "$2b$10$YZT.J2JstlIVNHekGy79kOgOKkq/vWZwSY1SQDig3jFmjlPQ5iLwu",
-    "title": "Herr",
-    "academicTitle": "Priv. Doz. DDr. med.",
-    "firstName": "Mehmet",
-    "lastName": "Özsoy",
-    "specialties": [
-      "Facharzt für Urologie"
-    ],
-    "address": "Neubaugürtel 47/ OG 5, 1150 Wien",
-    "street": "Neubaugürtel 47/ OG 5",
-    "city": "Wien",
-    "zipCode": "1150",
-    "phone": "013534414",
-    "additionalInfo": "Lugner City",
-    "photo": "1740012603622-1740012603615-541876648.jpg",
-    "showEmail": false,
-    "isProfileComplete": true,
-    "isApproved": true,
-    "registrationDate": "2025-02-20T00:49:05.591Z",
-    "website": "https://www.uromed.at",
-    "insurance": {
-      "noContract": false,
-      "oegk": true,
-      "svs": true,
-      "bvaeb": true,
-      "kfa": true
-    },
-    "galleryPhotos": [
-      "gallery-1740015745428.jpg"
-    ]
   }
 ]
